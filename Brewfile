@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 brew 'cloudflared'
+brew 'git'
 brew 'imagemagick'
 brew 'postgresql@14'
 brew 'redis'
@@ -14,21 +15,38 @@ brew 'yt-dlp'
 
 cask '1password'
 cask 'airtable'
-cask 'android-platform-tools'
 cask 'arq'
+cask 'balenaetcher'
 cask 'diffusionbee'
-cask 'handbrake'
+cask 'discord'
+cask 'firefox'
 cask 'messenger'
+cask 'moonlight'
 cask 'notion-calendar'
-cask 'plex'
+cask 'obsidian'
 cask 'qlvideo'
-cask 'sonos'
+cask 'rectangle'
+cask 'spotify'
 cask 'steam'
 cask 'transmission'
 cask 'raycast'
 cask 'warp'
+cask 'wifiman'
 cask 'whatsapp'
 cask 'windsurf'
 cask 'visual-studio-code'
 cask 'vlc'
 cask 'zed'
+vscode "angular.ng-template"
+vscode "dbaeumer.vscode-eslint"
+vscode "eamodio.gitlens"
+vscode "esbenp.prettier-vscode"
+vscode "github.copilot"
+vscode "github.copilot-chat"
+vscode "ms-azuretools.vscode-containers"
+vscode "ms-python.debugpy"
+vscode "ms-python.python"
+vscode "ms-python.vscode-pylance"
+vscode "ms-vscode-remote.remote-ssh"
+vscode "ms-vscode-remote.remote-ssh-edit"
+vscode "ms-vscode.remote-explorer"
