@@ -1,0 +1,5 @@
+[user]
+        name = Jonathan Davis
+        email = cartman61616@gmail.com
+[credential]
+        helper = cache
