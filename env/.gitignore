@@ -1,0 +1,7 @@
+# Generated environment files (contain secrets)
+*.env
+!*.env.template
+
+# Temporary files
+*.tmp
+*.bak
