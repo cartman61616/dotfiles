@@ -3,3 +3,5 @@
         email = cartman61616@gmail.com
 [credential]
         helper = cache
+[core]
+        sshCommand = ssh -i ~/.ssh/id_ed25519_github
